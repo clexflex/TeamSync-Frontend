@@ -62,6 +62,7 @@ const Login = () => {
                     <div className="mt-8">
                         <div className="w-32 h-1 bg-blue-400 mx-auto rounded-full"></div>
                     </div>
+                    <p className="text-blue-100 text-sm mt-2 ">From ClexFlex</p>
                 </div>
             </div>
 
